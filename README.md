@@ -4,7 +4,8 @@ This repository contains notebooks for various machine learning (or relevant) ta
 
 ## Index
 
-- [optimization-methods](optimization-methods): Implementations (from scratch) and applications of Optimization/ML algorithms (course assignments, CS573 - Optimization Methods, University of Crete)
+- [optimization-methods](optimization-methods): Implementations (from scratch) and applications of Optimization/ML algorithms (course assignments, CS573 - Optimization Methods (graduate level), University of Crete)
+- [applied-data-science](applied-data-science): Applications of various Data Science - ML methods and algorithms (course assignments, CS485 - Applied Data Science, University of Crete)
 - [pattern-recognition](pattern-recognition): Implementations (from scratch) and applications of ML algorithms (course assignments, CS473 - Pattern Recognition, University of Crete)
 - [what-makes-a-good-midfielder](https://github.com/NikosKont/what-makes-a-good-midfielder): Analysis with the goal of finding the most important stats for a midfielder in football (personal project, external repository)
 - [movie-revenue](movie-revenue): Predicting movie revenue using linear regression (course project, MEM264 - Applied Statistics, University of Crete)
